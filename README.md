@@ -1,1 +1,1 @@
-# ecotone-query-bus-router
+# ecotone-lite-application
